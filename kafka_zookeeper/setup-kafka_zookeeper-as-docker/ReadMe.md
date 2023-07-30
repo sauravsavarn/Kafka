@@ -7,6 +7,9 @@
   * COMMANDS :-
   * *  commands to spawn the docker containers
     *  #> docker-compose up -d
+
+  * SNAPSHOT (when multi-broker spawned-up using above command) :-
+    *  ![Alt text](../../assets/img/multi-broker-docker-spawned-containers.png)
    
   * REFERENCE :-
   * * 1.  https://hub.docker.com/r/confluentinc/cp-kafka
